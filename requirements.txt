@@ -6,3 +6,4 @@ hyperopt==0.2.7
 seaborn==0.12.2
 xgboost==1.7.4
 catboost==1.1.1
+ipywidgets==8.0.3
