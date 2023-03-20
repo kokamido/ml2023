@@ -14,7 +14,7 @@ import xgboost as xgb
 
 
 
-from sklearn.datasets import make_regression, make_classification, make_circles, load_boston
+from sklearn.datasets import make_regression, make_classification, make_circles
 from sklearn.metrics import mean_squared_error as MSE, accuracy_score
 from sklearn.model_selection import cross_val_score, StratifiedKFold, GridSearchCV, train_test_split, KFold
 
@@ -22,7 +22,6 @@ from sklearn.model_selection import cross_val_score, StratifiedKFold, GridSearch
 from catboost import CatBoostRegressor
 from catboost import Pool
 import numpy as np
-from sklearn.datasets import load_boston
 from sklearn.model_selection import KFold
 from sklearn.metrics import confusion_matrix, mean_squared_error
 from sklearn.model_selection import train_test_split
