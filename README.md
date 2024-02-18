@@ -25,7 +25,7 @@ https://github.com/kokamido/ml2023
 # Как считаем баллы БРС
 Вот так:
 
-SCORE = MIN(40, ULEARN% / 2) + CONTEST_1 + CONTEST_2 + THEORY
+SCORE = (IF зарегался на каггле 5 ELSE 0) + MIN(35, ULEARN% / 2) + CONTEST_1 + CONTEST_2 + THEORY
 
 БРС = MIN(100, SCORE)
 
