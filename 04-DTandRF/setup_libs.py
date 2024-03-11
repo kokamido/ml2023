@@ -2,7 +2,7 @@ from IPython.display import Image
 import numpy as np
 from sklearn.tree import DecisionTreeRegressor as DTR
 from sklearn.ensemble import BaggingRegressor #Вот наш бэггинг регрессор
-from sklearn.datasets import make_regression
+from sklearn.datasets import make_regression, make_classification 
 from sklearn.metrics import mean_squared_error as MSE
 from sklearn.model_selection import train_test_split
 import pandas as pd
