@@ -8,7 +8,7 @@
 * [Home5](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/05-Boosting/HomeBoosting.ipynb)
 
 ## Запись
-[Youtube]()
+[Youtube](https://youtu.be/08py3OR-epk?feature=shared)
 
 ## План
 * GradBoost (1 час)
