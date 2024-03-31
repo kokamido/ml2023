@@ -5,7 +5,7 @@
 * [Home2](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/02-Linear/HomeLinear.ipynb)
 
 ## Запись
-[Youtube](https://youtu.be/xhbqch9aQdM)
+[Youtube](https://youtu.be/_dToYNPf9PQ?feature=shared)
 
 
 ## Домашнее задание

@@ -6,7 +6,7 @@
 * [Home4](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/04-DTandRF/HomeDTandRF.ipynb)
 
 ## Запись
-[Youtube](https://youtu.be/pECw0mBryB4)
+[Youtube](https://youtu.be/UoY39v1wyMw?feature=shared)
 
 ## План
 * Дерево решений (30 мин)
