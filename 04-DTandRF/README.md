@@ -1,9 +1,9 @@
 # 4. Деревья и ансамбли деревьев
 
 ## Colab
-* [DT](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/04-DTandRF/DT.ipynb)
-* [RF](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/04-DTandRF/RF.ipynb)
-* [Home4](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/04-DTandRF/HomeDTandRF.ipynb)
+* [DT](https://colab.research.google.com/github/kokamido/ml2023/blob/master/04-DTandRF/DT.ipynb)
+* [RF](https://colab.research.google.com/github/kokamido/ml2023/blob/master/04-DTandRF/RF.ipynb)
+* [Home4](https://colab.research.google.com/github/kokamido/ml2023/blob/master/04-DTandRF/HomeDTandRF.ipynb)
 
 ## Запись
 [Youtube](https://youtu.be/UoY39v1wyMw?feature=shared)

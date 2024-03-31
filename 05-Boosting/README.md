@@ -1,11 +1,10 @@
 # 5-Бустинг
 
 ## Colab
-* [GradBoost](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/05-Boosting/1-GradBoost.ipynb)
-* [XGBoost](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/05-Boosting/2-Xgboost.ipynb)
-* [CatBoost](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/05-Boosting/3-CatBoost.ipynb)
-* [PipeLine]()
-* [Home5](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/05-Boosting/HomeBoosting.ipynb)
+* [GradBoost](https://colab.research.google.com/github/kokamido/ml2023/blob/master/05-Boosting/1-GradBoost.ipynb)
+* [XGBoost](https://colab.research.google.com/github/kokamido/ml2023/blob/master/05-Boosting/2-Xgboost.ipynb)
+* [CatBoost](https://colab.research.google.com/github/kokamido/ml2023/blob/master/05-Boosting/3-CatBoost.ipynb)
+* [Home5](https://colab.research.google.com/github/kokamido/ml2023/blob/master/05-Boosting/HomeBoosting.ipynb)
 
 ## Запись
 [Youtube](https://youtu.be/08py3OR-epk?feature=shared)
