@@ -1,9 +1,8 @@
 # 12. Clustering
 
 ## Colab
-* [1_Cluster](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/12-ClusterTS/1_Cluster.ipynb)
-* [2_LDA](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/12-ClusterTS/2_LDA.ipynb)
-* [3_TS](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/12-ClusterTS/3_TS.ipynb)
+* [1_Cluster](https://colab.research.google.com/github/kokamido/ml2023/blob/master/06-ClusterTS/1_Cluster.ipynb)
+* [3_TS](https://colab.research.google.com/github/kokamido/ml2023/blob/master/06-ClusterTS/3_TS.ipynb)
 
 ## Запись 
 

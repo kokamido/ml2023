@@ -1,8 +1,8 @@
 # 1. Введение в Машинное Обучение
 
 ## Colab
-* [IntroML](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/01-IntroML/IntroML.ipynb)
-* [Home](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/01-IntroML/HomeIntroML.ipynb)
+* [IntroML](https://colab.research.google.com/github/kokamido/ml2023/blob/master/01-IntroML/IntroML.ipynb)
+* [Home](https://colab.research.google.com/github/kokamido/ml2023/blob/master/01-IntroML/HomeIntroML.ipynb)
 
 
 ## План

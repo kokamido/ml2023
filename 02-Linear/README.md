@@ -1,8 +1,8 @@
 # 2. Линейные алгоритмы
 
 ## Colab
-* [Linear](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/02-Linear/Linear.ipynb)
-* [Home2](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/02-Linear/HomeLinear.ipynb)
+* [Linear](https://colab.research.google.com/github/kokamido/ml2023/blob/master/02-Linear/Linear.ipynb)
+* [Home2](https://colab.research.google.com/github/kokamido/ml2023/blob/master/02-Linear/HomeLinear.ipynb)
 
 ## Запись
 [Youtube](https://youtu.be/_dToYNPf9PQ?feature=shared)
