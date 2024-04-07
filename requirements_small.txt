@@ -18,3 +18,5 @@ torch
 torchvision
 tornado
 xgboost
+nltk
+gensim
