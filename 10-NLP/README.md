@@ -1,13 +1,11 @@
 # 9. NLP (Natural Language Processing)
 
 ## Colab
-* [1-Embeddings](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/09-NLP/1-Embeddings.ipynb)
-* [2-Word_embeddings](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/09-NLP/2-Word_embeddings.ipynb)
-* [3-JobPrediction](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/09-NLP/3-JobPrediction.ipynb)
-* [Home9](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/09-NLP/Home9.ipynb)
+* [1-Embeddings](https://colab.research.google.com/github/kokamido/ml2023/blob/main/10-NLP/1-Embeddings.ipynb)
+* [2-Word_embeddings](https://colab.research.google.com/github/kokamido/ml2023/blob/main/10-NLP/2-Word_embeddings.ipynb)
 
 ## Запись 
-[Youtube](https://www.youtube.com/watch?v=pwSRxr07jxk)
+[Youtube](https://www.youtube.com/watch?v=rsqe0ICesRc&list=PLRfnVRgqC2Dt3rFgV5K_St1m_rcnwrMVx&index=8)
 
 ## План
 * Эмбеддинги (1 час)
