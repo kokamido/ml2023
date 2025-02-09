@@ -6,7 +6,7 @@ import matplotlib.patches as mpatches
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 
-def get_grid(data, border=1., step=.01): #получаем все точки плоскости
+def get_grid(data, border=1., step=.05): #получаем все точки плоскости
     x_min, x_max = data[:, 0].min() - border, data[:, 0].max() + border
     y_min, y_max = data[:, 1].min() - border, data[:, 1].max() + border
     return np.meshgrid(np.arange(x_min, x_max, step),
