@@ -18,5 +18,4 @@
 ## Запись
 [Youtube](https://youtu.be/gBS5C7ObzQU?feature=shared)
 
-## Домашнее задание
-[Дедлайн 17.03.22 в 18:00](https://ulearn.me/course/ml/Pervoe_obuchenie_81c95dbe-44a2-4dfa-93bb-4a23a0a30794)
+## [Домашнее задание](https://ulearn.me/course/ml/Pervoe_obuchenie_81c95dbe-44a2-4dfa-93bb-4a23a0a30794)
