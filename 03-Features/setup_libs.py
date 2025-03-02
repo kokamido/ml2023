@@ -26,21 +26,22 @@ from sklearn.datasets import make_circles
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier as KNN
 
-def get_grid(data, border=1., step=.01): #получаем все точки плоскости
+def get_grid(data, border=1., step=.005): #получаем все точки плоскости
     x_min, x_max = data[:, 0].min() - border, data[:, 0].max() + border
     y_min, y_max = data[:, 1].min() - border, data[:, 1].max() + border
     return np.meshgrid(np.arange(x_min, x_max, step),
                        np.arange(y_min, y_max, step))
 
-def plot_model(X_train, y_train, clf, title=None, proba=False):
+def plot_model(X_train, y_train, clf, title=None, proba=False, produce_data_point=lambda x,y: (x,y)):
     xx, yy = get_grid(X_train) #получаем все точки плоскости
     plt.figure(figsize=(7, 7))
     # предсказываем значения для каждой точки плоскости
     
+    data_to_predict = np.array([produce_data_point(x,y) for x, y in zip(xx.ravel(), yy.ravel())])
     if proba: # нужно ли предсказывать вероятности 
-        predicted = clf.predict_proba(np.c_[xx.ravel(), yy.ravel()])[:, 1].reshape(xx.shape)
+        predicted = clf.predict_proba(data_to_predict)[:, 1].reshape(xx.shape)
     else:
-        predicted = clf.predict(np.c_[xx.ravel(), yy.ravel()]).reshape(xx.shape)
+        predicted = clf.predict(data_to_predict).reshape(xx.shape)
     
     # Отрисовка плоскости
     ax = plt.gca()
