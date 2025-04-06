@@ -1,3 +1,6 @@
+spacy==3.8.4
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
 annotated-types==0.7.0
 asttokens==3.0.0
 blis==1.2.0
@@ -17,7 +20,6 @@ DAWG2-Python==0.9.0
 debugpy==1.8.13
 decorator==5.2.1
 docopt==0.6.2
-en_core_web_sm==3.8.0
 executing==2.2.0
 faiss-cpu==1.10.0
 fonttools==4.56.0
@@ -75,16 +77,12 @@ pyzmq==26.3.0
 regex==2024.11.6
 requests==2.32.3
 rich==14.0.0
-ru_core_news_sm==3.8.0
 scikit-learn==1.6.1
 scipy==1.13.1
 setuptools==65.5.0
 shellingham==1.5.4
 six==1.17.0
 smart-open==7.1.0
-spacy==3.8.4
-spacy-legacy==3.0.12
-spacy-loggers==1.0.5
 srsly==2.5.1
 stack-data==0.6.3
 thinc==8.3.4
