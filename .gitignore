@@ -1,3 +1,7 @@
 *.pyc
 **/*venv*
 .conda
+11-Other-NN-Types/tiny-imagenet
+11-Other-NN-Types/cats
+11-Other-NN-Types/ckpts
+11-Other-NN-Types/data
